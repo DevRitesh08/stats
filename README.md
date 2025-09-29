@@ -1,1 +1,1 @@
-# stats for machine Learning
+# Complete statistics for machine Learning
